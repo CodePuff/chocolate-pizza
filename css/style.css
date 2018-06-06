@@ -74,7 +74,7 @@ section h2 {
 
 }
 section.subtitle {
-  font-size: .75em:
+  font-size: .75em;
   margin: 0 0 0 5px;
 
 }
@@ -84,9 +84,46 @@ section button {
   position: relative;
   top: -17px;
   font-size:0..75em;
-  
+
 }
 
+.instructions p {
+  text-indent: 30px;
+
+}
+
+div.recipe {
+  width: 100%;
+  height: auto;
+  background:url(list-bg.png);
+  overflow:auto;
+  margin-bottom: 30px;
+
+}
+
+.recipe li {
+  font-family:'Indie Flower', cursive;
+  font-size: 1.1em;
+  list-style-type: none;
+
+}
+
+.recipe ul {
+  float: left;
+  width: 50%;
+
+}
+
+.recipe input {
+  margin-right: 10px;
+
+}
+
+.todo-done {
+  text-decoration:line-through;
+  text-decoration-color: red;
+
+}
 
 
 
