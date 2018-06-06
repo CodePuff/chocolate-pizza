@@ -61,6 +61,32 @@ nav ul:nth-child(7){
 
 }
 
+img.full-width {
+  width: 100%;
+  margin-top: 10px;
+
+}
+
+section h2 {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 2.8em;
+  margin: 2px 0;
+
+}
+section.subtitle {
+  font-size: .75em:
+  margin: 0 0 0 5px;
+
+}
+
+section button {
+  float: right;
+  position: relative;
+  top: -17px;
+  font-size:0..75em;
+  
+}
+
 
 
 
